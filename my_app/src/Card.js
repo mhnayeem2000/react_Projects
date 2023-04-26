@@ -6,11 +6,7 @@ const year = date.getFullYear();
 
 function Card(){
     return   <div className="flax">
-                <div className='button'>
-                <button className='btn'>Show Student</button>
-                </div>
-                
-                <div className='boxStyle' >
+                <div className='boxStyle sbox' >
                     <button className='cross'>X</button>
                     <img className='img' src="https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=2000"></img>
                     

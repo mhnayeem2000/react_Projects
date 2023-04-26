@@ -16,6 +16,8 @@ root.render(
   <React.StrictMode>
     <div>
       <div className='boxStyle' >
+        <img className='img' src="https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=2000"></img>
+        
         <h1 className='h1Style' >{name}</h1>
         <h4 className='h4Style'  >-Student of CSE</h4>
         <p>lorem ipsum doman do itsa kasur manus is lareo kilo isat manush kintu na</p>

@@ -1,7 +1,7 @@
 .boxStyle {
 
     width:  300px;
-    height:  250px;
+    height:  450px;
     background: pink;
     border: 1px solid rgba(111, 105, 105, 0.401);
     border-radius: 5px;
@@ -9,6 +9,8 @@
     text-align: center;
     top: 20%;
     left: 10%;
+    padding: 4px;
+    box-shadow: 5px 5px 10px rgba(44, 40, 40, 0.201);
     
   }
   .h1Style{
@@ -30,4 +32,11 @@
 
   .h4Style{
     margin-top: -8px;
+  }
+
+  .img{
+    margin-top: 10px;
+    max-width: 90%;
+    height: auto;
+    border-radius: 5%;
   }

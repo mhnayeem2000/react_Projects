@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import Card from './Card';
+import Card from './components/Card';
 
 
 
@@ -11,7 +10,6 @@ root.render(
     <div className='container'>
       <h1>Our Members</h1>
       <div className='bigBox'>
-        <div> <Card /></div>
         <div> <Card /></div>
         <div> <Card /></div>
         <div> <Card /></div>

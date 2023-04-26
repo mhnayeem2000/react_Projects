@@ -65,5 +65,10 @@
     opacity: 50%;
  }
 .flax{
+    width: 1170px;
+    margin: auto;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
 }

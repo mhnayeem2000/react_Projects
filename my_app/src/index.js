@@ -12,9 +12,7 @@ root.render(
   <React.StrictMode>
     <div className='bigBox'>
         <Card />
-        
-        
-       
+        <Card />
     </div>
   </React.StrictMode>
 );
